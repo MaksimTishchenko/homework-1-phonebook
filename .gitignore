@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__
+*.pyc
+*.db
+*.log
+.DS_Store
+env/
+venv/
+*.json # если хотите исключить contacts.json из репозитория
